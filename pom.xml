@@ -15,7 +15,7 @@
     <connection>scm:git:ssh://github.com/jenkinsci/openshift-login-plugin.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/jenkinsci/openshift-login-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/openshift-login-plugin</url>
-    <tag>HEAD</tag>
+    <tag>openshift-login-1.0.5</tag>
   </scm>
 
   <name>OpenShift Login Plugin</name>
